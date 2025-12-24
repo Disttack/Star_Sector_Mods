@@ -1,0 +1,32 @@
+{
+	"portraits":{
+		"standard_male":[
+            "graphics/portraits/disanime_19.png",
+            "graphics/portraits/disanime_20.png",
+            "graphics/portraits/disanime_21.png",
+            "graphics/portraits/disanime_22.png",
+        ],
+		
+        "standard_female":[
+            "graphics/portraits/disanime_0.png",
+            "graphics/portraits/disanime_1.png",
+            "graphics/portraits/disanime_2.png",
+            "graphics/portraits/disanime_3.png",
+            "graphics/portraits/disanime_4.png",
+            "graphics/portraits/disanime_5.png",
+            "graphics/portraits/disanime_6.png",
+            "graphics/portraits/disanime_7.png",
+            "graphics/portraits/disanime_8.png",
+            "graphics/portraits/disanime_9.png",
+            "graphics/portraits/disanime_10.png",
+            "graphics/portraits/disanime_11.png",
+            "graphics/portraits/disanime_12.png",
+            "graphics/portraits/disanime_13.png",
+            "graphics/portraits/disanime_14.png",
+            "graphics/portraits/disanime_15.png",
+            "graphics/portraits/disanime_16.png",
+            "graphics/portraits/disanime_17.png",
+            "graphics/portraits/disanime_18.png",
+        ],
+    },
+},				
