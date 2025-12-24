@@ -1,0 +1,26 @@
+{
+	"portraits":{
+		"standard_male":[
+            "graphics/portraits/advent_portrait_5.png",
+            "graphics/portraits/advent_portrait_9.png",
+        ],
+		
+        "standard_female":[
+            "graphics/portraits/advent_portrait_0.png",
+            "graphics/portraits/advent_portrait_1.png",
+            "graphics/portraits/advent_portrait_2.png",
+            "graphics/portraits/advent_portrait_3.png",
+            "graphics/portraits/advent_portrait_4.png",
+            "graphics/portraits/advent_portrait_6.png",
+            "graphics/portraits/advent_portrait_7.png",
+            "graphics/portraits/advent_portrait_8.png",
+            "graphics/portraits/advent_portrait_10.png",
+            "graphics/portraits/advent_portrait_11.png",
+            "graphics/portraits/advent_portrait_12.png",
+            "graphics/portraits/advent_portrait_13.png",
+            "graphics/portraits/advent_portrait_14.png",
+            "graphics/portraits/advent_portrait_15.png",
+            "graphics/portraits/advent_portrait_16.png",
+        ],
+    },
+},				
